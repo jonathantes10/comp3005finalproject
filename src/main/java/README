@@ -1,0 +1,11 @@
+This assignment is structured as the following:
+FOLDERS:
+dao : all the sql functional code
+db: connection code to pgadmin
+docs: ER Diagram
+menu: code for menu
+model: entity classes
+sql: DDL and DML code
+main: main program
+
+Video link:
