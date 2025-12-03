@@ -8,4 +8,8 @@ model: entity classes
 sql: DDL and DML code
 main: main program
 
+To use this applicaton, just simply run the main.
+
 Video link:
+Part 1: https://youtu.be/6XuFNLLj3lk (Talks about the ER Diagram)
+Part 2: https://youtu.be/Gc2_UEcF2TQ (Start at 3:20)
